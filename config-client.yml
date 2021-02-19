@@ -1,4 +1,0 @@
-foo: "from foo props LIVE BLABLABLA"
-democonfigclient.message: "hello spring io BLABLABLA"
-bonus: "BLABLABLA"
-test: "this is a data from config repo"
